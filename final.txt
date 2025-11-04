@@ -1,2 +1,1 @@
-this is a new file in develop branch
-...
+this is a new file in develop branch and it is final
